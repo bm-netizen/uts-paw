@@ -3,81 +3,81 @@
     "id": "1",
     "judul": "Monstera Deliciosa",
     "kategori": "Tanaman Daun",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 150000,
-    "Deskripsi": "Tanaman bedaun lebar dengan bentuk daun berlubang yang unik."
+    "namaLatin": "Monstera deliciosa",
+    "frekuensiSiram": "2-3 kali seminggu",
+    "kebutuhanCahaya": "cahaya tidak lansung"
   },
 
   {
     "id": "2",
-    "Judul": "Aglaonema Red Sumatra",
+    "judul": "Aglaonema Red Sumatra",
     "kategori": "Tanaman Daun",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 85000,
-    "Deskripsi": "Tanaman dengan warna daun merah yang menarik dan eksotis."
+    "namaLatin": "Aglaonema commutatum",
+    "frekuensiSiram": "2 kali seminggu",
+    "kebutuhanCahaya": "cahaya terang tidak langsung"
   },
   {
     "id": "3",
-    "Judul": "Lidah Mertua",
+    "judul": "Lidah Mertua",
     "kategori": "Tanaman merambat",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 120000,
-    "Deskripsi": "Tanaman merambat dengan daun berlubang yang khas."
+    "namaLatin": "Dracena trifasciata",
+    "frekuensisiram": "1 kali setiap 2 minggu",
+    "kebutuhanCahaya": "cahaya terang tidak langsung"
   },
   {
     "id": "4",
-    "Judul": "Janda Bolong",
+    "judul": "Janda Bolong",
     "kategori": "Tanaman merambat",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 120000,
-    "Deskripsi": "Tanaman merambat dengan daun berlubang yang khas."
+    "namaLatin": "Monstera adansoli",
+    "frekuensisiram": "2-3 kali seminggu",
+    "kebutuhanCahaya": "cahaya tidak langsung"
   },
   {
     "id": "5",
-    "Judul": "Sirih Gading",
+    "judul": "Sirih Gading",
     "kategori": "Tanaman merambat",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 35000,
-    "Deskripsi": "Tanaman merambat dengan daun berbentuk hati dan warna hijau."
+    "namaLatin": "Epipremnum aureum",
+    "frekuensisiram": "2 kali seminggu",
+    "kebutuhanCahaya": "cahaya terang tidak langsung"
   },
   {
     "id": "6",
-    "Judul": "Kuping Gajah",
+    "judul": "Kuping Gajah",
     "kategori": "Tanaman Daun",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 65000,
-    "Deskripsi": "Tanaman dengan daun lebar menyerupai teliga gajah."
+    "namaLatin": "Anthurium crystallinum",
+    "frekuensisiram": "2-3 kali seminggu",
+    "kebutuhanCahaya": "cahaya tidak langsung"
   },
   {
     "id": "7",
-    "Judul": "Peace Lily",
+    "judul": "Peace Lily",
     "kategori": "Tanaman Bunga",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 75000,
-    "Deskripsi": "Tanaman Berbunga putih dengan tampilan elegan."
+    "namaLatin": "Spathiphyllum wallisii",
+    "frekuensisiram": "2-3 kali seminggu",
+    "kebutuhanCahaya": "cahaya sedang tidak langsung"
   },
   {
     "id": "8",
-    "Judul": "Calathea Orbifolia",
+    "judul": "Calathea Orbifolia",
     "kategori": "Tanaman Daun",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 95000,
-    "Deskripsi": "Tanaman dengan daun bundar dan corak garis berwarna hijau."
+    "namaLatin": "Geoppertia orbifolia",
+    "frekuensisiram": "2-3 kali seminggu",
+    "kebutuhanCahaya": "cahaya tidak langsung"
   },
   {
     "id": "9",
-    "Judul": "Kaktus Mini",
+    "judul": "Kaktus Mini",
     "kategori": "tanaman sukulen",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 20000,
-    "Deskripsi": "tanaman berukuran kecil dengan bentuk unik dan perawatan sederhana."
+    "namaLatin": "Cactaceae",
+    "frekuensisiram": "1 kali setiap 2-3 minggu",
+    "kebutuhanCahaya": "cahaya matahari langsung"
   },
   {
     "id": "10",
-    "Judul": "Mawar Mini",
+    "judul": "Mawar Mini",
     "kategori": "Tanaman Bunga",
-    "Jenis": "Tanaman Hias Indoor",
-    "Harga": 40000,
-    "Deskripsi": "tanaman bunga berukuran keciil dengan warna yang beragam."
+    "namaLatin": "Rosa chinesis",
+    "frekuensisiram": "3-4 kali seminggu",
+    "kebutuhanCahaya": "cahaya matahari langsung"
   }
 ]
