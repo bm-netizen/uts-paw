@@ -1,10 +1,83 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
+    "judul": "Monstera Deliciosa",
+    "kategori": "Tanaman Daun",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 150000,
+    "Deskripsi": "Tanaman bedaun lebar dengan bentuk daun berlubang yang unik."
+  },
+
+  {
+    "id": "2",
+    "Judul": "Aglaonema Red Sumatra",
+    "kategori": "Tanaman Daun",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 85000,
+    "Deskripsi": "Tanaman dengan warna daun merah yang menarik dan eksotis."
+  },
+  {
+    "id": "3",
+    "Judul": "Lidah Mertua",
+    "kategori": "Tanaman merambat",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 120000,
+    "Deskripsi": "Tanaman merambat dengan daun berlubang yang khas."
+  },
+  {
+    "id": "4",
+    "Judul": "Janda Bolong",
+    "kategori": "Tanaman merambat",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 120000,
+    "Deskripsi": "Tanaman merambat dengan daun berlubang yang khas."
+  },
+  {
+    "id": "5",
+    "Judul": "Sirih Gading",
+    "kategori": "Tanaman merambat",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 35000,
+    "Deskripsi": "Tanaman merambat dengan daun berbentuk hati dan warna hijau."
+  },
+  {
+    "id": "6",
+    "Judul": "Kuping Gajah",
+    "kategori": "Tanaman Daun",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 65000,
+    "Deskripsi": "Tanaman dengan daun lebar menyerupai teliga gajah."
+  },
+  {
+    "id": "7",
+    "Judul": "Peace Lily",
+    "kategori": "Tanaman Bunga",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 75000,
+    "Deskripsi": "Tanaman Berbunga putih dengan tampilan elegan."
+  },
+  {
+    "id": "8",
+    "Judul": "Calathea Orbifolia",
+    "kategori": "Tanaman Daun",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 95000,
+    "Deskripsi": "Tanaman dengan daun bundar dan corak garis berwarna hijau."
+  },
+  {
+    "id": "9",
+    "Judul": "Kaktus Mini",
+    "kategori": "tanaman sukulen",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 20000,
+    "Deskripsi": "tanaman berukuran kecil dengan bentuk unik dan perawatan sederhana."
+  },
+  {
+    "id": "10",
+    "Judul": "Mawar Mini",
+    "kategori": "Tanaman Bunga",
+    "Jenis": "Tanaman Hias Indoor",
+    "Harga": 40000,
+    "Deskripsi": "tanaman bunga berukuran keciil dengan warna yang beragam."
   }
 ]
