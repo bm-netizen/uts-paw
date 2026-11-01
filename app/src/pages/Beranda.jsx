@@ -8,7 +8,7 @@ export default function Beranda() {
 
   return (
     <section>
-      <h1>Daftar Tugas</h1>
+      <h1>Daftar Tanaman Hias</h1>
       <p>Tema: {mahasiswa.tema}</p>
       {loading ? (
         <p>Memuat ringkasan...</p>
