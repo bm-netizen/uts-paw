@@ -5,7 +5,7 @@
     "kategori": "Tanaman Daun",
     "namaLatin": "Monstera deliciosa",
     "frekuensiSiram": "2-3 kali seminggu",
-    "kebutuhanCahaya": "cahaya tidak lansung"
+    "kebutuhanCahaya": "Sedang"
   },
 
   {
@@ -14,7 +14,7 @@
     "kategori": "Tanaman Daun",
     "namaLatin": "Aglaonema commutatum",
     "frekuensiSiram": "2 kali seminggu",
-    "kebutuhanCahaya": "cahaya terang tidak langsung"
+    "kebutuhanCahaya": "Sedang"
   },
   {
     "id": "3",
@@ -22,7 +22,7 @@
     "kategori": "Tanaman merambat",
     "namaLatin": "Dracena trifasciata",
     "frekuensiSiram": "1 kali setiap 2 minggu",
-    "kebutuhanCahaya": "cahaya terang tidak langsung"
+    "kebutuhanCahaya": "Sedang"
   },
   {
     "id": "4",
@@ -30,7 +30,7 @@
     "kategori": "Tanaman merambat",
     "namaLatin": "Monstera adansoli",
     "frekuensiSiram": "2-3 kali seminggu",
-    "kebutuhanCahaya": "cahaya tidak langsung"
+    "kebutuhanCahaya": "Teduh"
   },
   {
     "id": "5",
@@ -38,7 +38,7 @@
     "kategori": "Tanaman merambat",
     "namaLatin": "Epipremnum aureum",
     "frekuensiSiram": "2 kali seminggu",
-    "kebutuhanCahaya": "cahaya terang tidak langsung"
+    "kebutuhanCahaya": "Sedang"
   },
   {
     "id": "6",
@@ -46,7 +46,7 @@
     "kategori": "Tanaman Daun",
     "namaLatin": "Anthurium crystallinum",
     "frekuensiSiram": "2-3 kali seminggu",
-    "kebutuhanCahaya": "cahaya tidak langsung"
+    "kebutuhanCahaya": "Teduh"
   },
   {
     "id": "7",
@@ -54,7 +54,7 @@
     "kategori": "Tanaman Bunga",
     "namaLatin": "Spathiphyllum wallisii",
     "frekuensiSiram": "2-3 kali seminggu",
-    "kebutuhanCahaya": "cahaya sedang tidak langsung"
+    "kebutuhanCahaya": "Teduh"
   },
   {
     "id": "8",
@@ -62,7 +62,7 @@
     "kategori": "Tanaman Daun",
     "namaLatin": "Geoppertia orbifolia",
     "frekuensiSiram": "2-3 kali seminggu",
-    "kebutuhanCahaya": "cahaya tidak langsung"
+    "kebutuhanCahaya": "Teduh"
   },
   {
     "id": "9",
@@ -70,7 +70,7 @@
     "kategori": "tanaman sukulen",
     "namaLatin": "Cactaceae",
     "frekuensiSiram": "1 kali setiap 2-3 minggu",
-    "kebutuhanCahaya": "cahaya matahari langsung"
+    "kebutuhanCahaya": "Penuh"
   },
   {
     "id": "10",
@@ -78,6 +78,6 @@
     "kategori": "Tanaman Bunga",
     "namaLatin": "Rosa chinesis",
     "frekuensiSiram": "3-4 kali seminggu",
-    "kebutuhanCahaya": "cahaya matahari langsung"
+    "kebutuhanCahaya": "Penuh"
   }
 ]
