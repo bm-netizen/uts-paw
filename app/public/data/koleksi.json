@@ -21,7 +21,7 @@
     "judul": "Lidah Mertua",
     "kategori": "Tanaman merambat",
     "namaLatin": "Dracena trifasciata",
-    "frekuensisiram": "1 kali setiap 2 minggu",
+    "frekuensiSiram": "1 kali setiap 2 minggu",
     "kebutuhanCahaya": "cahaya terang tidak langsung"
   },
   {
@@ -29,7 +29,7 @@
     "judul": "Janda Bolong",
     "kategori": "Tanaman merambat",
     "namaLatin": "Monstera adansoli",
-    "frekuensisiram": "2-3 kali seminggu",
+    "frekuensiSiram": "2-3 kali seminggu",
     "kebutuhanCahaya": "cahaya tidak langsung"
   },
   {
@@ -37,7 +37,7 @@
     "judul": "Sirih Gading",
     "kategori": "Tanaman merambat",
     "namaLatin": "Epipremnum aureum",
-    "frekuensisiram": "2 kali seminggu",
+    "frekuensiSiram": "2 kali seminggu",
     "kebutuhanCahaya": "cahaya terang tidak langsung"
   },
   {
@@ -45,7 +45,7 @@
     "judul": "Kuping Gajah",
     "kategori": "Tanaman Daun",
     "namaLatin": "Anthurium crystallinum",
-    "frekuensisiram": "2-3 kali seminggu",
+    "frekuensiSiram": "2-3 kali seminggu",
     "kebutuhanCahaya": "cahaya tidak langsung"
   },
   {
@@ -53,7 +53,7 @@
     "judul": "Peace Lily",
     "kategori": "Tanaman Bunga",
     "namaLatin": "Spathiphyllum wallisii",
-    "frekuensisiram": "2-3 kali seminggu",
+    "frekuensiSiram": "2-3 kali seminggu",
     "kebutuhanCahaya": "cahaya sedang tidak langsung"
   },
   {
@@ -61,7 +61,7 @@
     "judul": "Calathea Orbifolia",
     "kategori": "Tanaman Daun",
     "namaLatin": "Geoppertia orbifolia",
-    "frekuensisiram": "2-3 kali seminggu",
+    "frekuensiSiram": "2-3 kali seminggu",
     "kebutuhanCahaya": "cahaya tidak langsung"
   },
   {
@@ -69,7 +69,7 @@
     "judul": "Kaktus Mini",
     "kategori": "tanaman sukulen",
     "namaLatin": "Cactaceae",
-    "frekuensisiram": "1 kali setiap 2-3 minggu",
+    "frekuensiSiram": "1 kali setiap 2-3 minggu",
     "kebutuhanCahaya": "cahaya matahari langsung"
   },
   {
@@ -77,7 +77,7 @@
     "judul": "Mawar Mini",
     "kategori": "Tanaman Bunga",
     "namaLatin": "Rosa chinesis",
-    "frekuensisiram": "3-4 kali seminggu",
+    "frekuensiSiram": "3-4 kali seminggu",
     "kebutuhanCahaya": "cahaya matahari langsung"
   }
 ]
